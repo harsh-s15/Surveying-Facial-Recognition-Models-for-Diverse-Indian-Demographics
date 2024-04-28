@@ -1,6 +1,6 @@
 # Facial Recognition Models for Diverse Indian Demographics
 
-This repository contains the datasets, model codes, and test scripts for the facial recognition study titled "Surveying Facial Recognition Models for Diverse Indian Demographics: A Comparative Analysis on LFW and Custom Dataset". This research evaluates various facial recognition models using two datasets: the Labeled Faces in the Wild (LFW) and the custom IITJ Faces of Academia Dataset (JFAD).
+This repository contains the datasets, model codes, and test scripts for the facial recognition study titled **"Surveying Facial Recognition Models for Diverse Indian Demographics: A Comparative Analysis on LFW and Custom Dataset"**. This research evaluates various facial recognition models using two datasets: the Labeled Faces in the Wild (LFW) and the custom IITJ Faces of Academia Dataset (JFAD).
 
 ## Repository Contents
 
