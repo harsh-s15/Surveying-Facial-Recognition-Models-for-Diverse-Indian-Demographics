@@ -10,7 +10,7 @@ This repository contains the datasets, model codes, and test scripts for the fac
 - **Models**: IPYNB notebooks containing code for models used for facial recognition.
   - `CNN`: Code for the Convolutional Neural Network model.
   - `HybridModel`: Code for the Hybrid Model combining traditional and deep learning approaches.
-  - `Traditional Models`: Code for traditional models like PCA, LDA, etc.
+  - `Traditional Models`: Code for traditional models like PCA, LDA and Gabor Filters.
 - **Scripts**: Utility scripts for data processing and testing.
   - `cv_preprocessing_v1.ipynb`: Script for preprocessing images from both datasets.
   - `test_webcam.py`: Script to run real-time facial recognition using a webcam.
